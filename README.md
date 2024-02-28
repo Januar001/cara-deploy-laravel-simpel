@@ -1,5 +1,12 @@
-Cara simpel Deploy Laravel
+#cara 1
+Cara simpel Deploy Laravel 
 
+- Download File ini dan extrak
+- Pastekan di root kamu.
+- Masuk Ke folder Publik, hapus index.php dan .htaccess
+===============================================
+
+#cara 2
 copy file .htaccess di public ke file root masukkan kode ini kedalam file htaccessmu
 ====================================================
 
